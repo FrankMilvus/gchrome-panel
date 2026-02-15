@@ -1,0 +1,8 @@
+{
+  "uuid": "toggle-app@frank",
+  "name": "Toggle App",
+  "description": "Open app if closed, activate if open, minimize if active",
+  "shell-version": ["49"],
+  "settings-schema": "org.gnome.shell.extensions.toggle-app",
+  "version": 1
+}
