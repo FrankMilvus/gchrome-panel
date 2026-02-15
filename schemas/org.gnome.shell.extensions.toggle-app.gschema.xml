@@ -2,7 +2,7 @@
 <schemalist>
   <schema id="org.gnome.shell.extensions.toggle-app" path="/org/gnome/shell/extensions/toggle-app/">
     <key name="toggle-app" type="as">
-      <default>['&lt;Super&gt;f']</default>
+      <default>['&lt;Shift&gt;&lt;Super&gt;XF86TouchpadOff']</default>
       <summary>Toggle App</summary>
       <description>Open if closed, activate if open, minimize if focused</description>
     </key>
